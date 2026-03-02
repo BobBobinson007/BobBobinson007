@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BobBobinson007/BobBobinson007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>BobBobinson007</h3>
+<p>Web development with AI assistance — fast, clean, and free.</p>
+<br/>
 
-Here are some ideas to get you started:
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=eeeeee)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=eeeeee)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=eeeeee)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=eeeeee)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=eeeeee)](https://www.sqlite.org/)
+[![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=eeeeee)](https://www.debian.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Available-000000?style=flat&labelColor=cccccc&color=000000&logoColor=eeeeee)
+
+<br/>
+
+[![Mail](https://img.shields.io/badge/Contact-000000?style=flat&logo=gmail&logoColor=eeeeee)](mailto:bob.bobinson.git@proton.me)
+![Profile Views](https://komarev.com/ghpvc/?username=BobBobinson007&style=flat&color=000000&labelColor=eeeeee&label=Visits)
+
+</div>
