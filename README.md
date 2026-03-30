@@ -10,6 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=eeeeee)](https://www.python.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=eeeeee)](https://www.sqlite.org/)
 [![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=eeeeee)](https://www.debian.org/)
+[![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=eeeeee)](https://isocpp.org/)
 
 <br/>
 
